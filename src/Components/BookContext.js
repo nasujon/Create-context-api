@@ -19,11 +19,6 @@ export const BookProvider = (props) =>{
       Name: "Emoji",
       Price: "334",
       Author: "eourbhf"
-    },
-    {
-      Name: "bangla",
-      Price: "344",
-      Author: "kag"
     }
 
   ])
